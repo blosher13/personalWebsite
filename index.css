@@ -1,24 +1,74 @@
 /*Main Elements*/
-header{
-	padding-bottom: 3.5em;
-}
-
-body{
-	background-color: #ffffe0;
-	padding-left: 50px;
-	padding-right: 50px
-	font-family: 'Merriweather', serif;
-}
 
 /*Navigation Bar*/
 .nav-item{
-	padding-left: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 #mainTitle{
 	font-family: 'Sacramento', cursive;
-	font-size: 6em;
+	font-size: 100px;
 }
+
+/* Images */
+#img1{
+	border-radius: 5%
+}
+
+/* Section1 */
+.section1{
+	padding-top: 100px;
+	background-color: #fae7cb;
+	padding-bottom: 68px;
+}
+.section1col1{
+	text-align: center;
+}
+.section1col2{
+		align-items: center;
+		text-align: center;
+	/* padding-bottom: 44px; */
+}
+
+/* Section2 */
+.section2row1{
+	height: 636px;
+	background-color: #ff7272;
+	color: white;
+	text-align:center;
+	align-items: center;
+
+}
+
+/* Section3 */
+.section3{
+	padding-top:68px;
+	height:736px;
+	background-color: #fae7cb;
+	text-align:center;
+	align-items: center;
+}
+
+
+.card{
+	border-radius: 100%;
+}
+
+/* Section4 */
+.section4{
+	color:white;
+	padding-top:68px;
+	height:836px;
+	background-color: #ff7272;
+	text-align: center;
+}
+
+.section4col1{
+	text-align: center;
+	/* margin-right: 50px */
+}
+
 
 
 /*Mobile Reponsiveness*/
