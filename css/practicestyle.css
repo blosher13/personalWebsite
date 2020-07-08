@@ -1,0 +1,12 @@
+body{
+  background-color: lightblue;
+}
+
+h1{
+  color: rgb(2)
+}
+
+.huge{
+  font-size: 1rem;
+  color: blue;
+}
